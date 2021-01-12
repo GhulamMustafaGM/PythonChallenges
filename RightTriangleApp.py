@@ -1,5 +1,5 @@
 
-# Right Triangle App
+# Right Triangle
 
 import math
 
