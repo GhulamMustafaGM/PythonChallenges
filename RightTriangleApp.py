@@ -1,4 +1,6 @@
 
+# Right Triangle App
+
 import math
 
 print("Welcome to the Right Triangle Solver App")
