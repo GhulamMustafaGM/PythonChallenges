@@ -1,4 +1,4 @@
-# Lists Challenge - Favorite Teachers Program
+# Lists Challenge - Favorite Teachers App
 
 print("\nWelcome to the Favorite Teachers Program")
 fav_teachers = []
