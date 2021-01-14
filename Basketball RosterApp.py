@@ -1,4 +1,4 @@
-# Lists Challenge 9: Basketball Roster Program
+# Lists Challenge - Basketball Roster Program
 
 print("Welcome to the Basketball Roster Program")
 
