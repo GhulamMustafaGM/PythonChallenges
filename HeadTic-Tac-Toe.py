@@ -1,4 +1,4 @@
-# Functions: Head to Head Tic Tac Toe App
+# Functions: Head to Head Tic Tac Toe Application
 
 def draw_board(char_list):
     """Print a game board; either a number board or a tic tac toe board."""
