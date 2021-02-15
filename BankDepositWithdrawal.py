@@ -1,4 +1,4 @@
-# Functions : Bank Deposit and Withdrawal App
+# Functions : Bank Deposit and Withdrawal Application
 
 def get_info():
     """Get user information to store in a dict that represents a bank account"""
